@@ -1,3 +1,9 @@
+# Sigma.js demo deployed on Github pages
+
+With help from https://blog.logrocket.com/deploying-react-apps-github-pages/
+
+Below is the README text of the sigma.js demo.
+
 # Sigma.js full-featured demo
 
 This project aims to provide a full-features "real life" application using sigma.js. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and uses [react-sigma-v2](https://github.com/sim51/react-sigma-v2) to interface sigma.js with React.
