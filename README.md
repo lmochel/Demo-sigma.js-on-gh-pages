@@ -1,5 +1,9 @@
 # Sigma.js demo deployed on Github pages
 
+Use `npm run deploy` to create a bundled version of the React application and push it to a gh-pages branch in the remote repository on Github.
+
+See the result on https://lmochel.github.io/Demo-sigma.js-on-gh-pages/
+
 With help from https://blog.logrocket.com/deploying-react-apps-github-pages/
 
 Below is the README text of the sigma.js demo.
